@@ -1,6 +1,6 @@
 
 
-<h1 align="center" style : "color":"red"> Sourabh Garg</h1>
+<h1 align="center" style = "color:red;"> Sourabh Garg</h1>
 <h3 align="center">A passionate frontend developer from India, who has good knowledge of the MERN stack.I also have some experience in data analysis and the field of machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhgarg5000&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhgarg5000" /> </p>
